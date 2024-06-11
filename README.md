@@ -1,8 +1,5 @@
 <<<<<<< HEAD
 ![Header](./github-header-image.png)
-<h1 align="center">Hi 👋, I'm Salim Serhat Aka</h1>
-=======
-![Header](./banner.png)
 <h1 align="center">To see my repositories, scroll down!</h1>
 >>>>>>> 8bd12ba3fdec1e334215dd76d7ebff760e93ed22
 <h3 align="center">A passionate web developer from Turkiye</h3>
