@@ -1,4 +1,4 @@
-![Header](./banner.png)
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Salim Serhat Aka</h1>
 <h3 align="center">A passionate web developer from Turkiye</h3>
 
