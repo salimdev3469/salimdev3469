@@ -1,5 +1,5 @@
 ![Header](./banner.png)
-<h1 align="center">Hi 👋, I'm Salim Serhat Aka</h1>
+<h1 align="center">To see my repositories, scroll down!</h1>
 <h3 align="center">A passionate web developer from Turkiye</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salimdev3469" alt="salimdev3469" /></a> </p>
