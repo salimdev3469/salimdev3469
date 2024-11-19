@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/salim-serhat-aka-7015b6253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salim-serhat-aka-7015b6253" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/salim-serhat-aka-32b98b318" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salim-serhat-aka-32b98b318" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
